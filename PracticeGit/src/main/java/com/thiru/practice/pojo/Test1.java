@@ -8,6 +8,8 @@ public class Test1 {
 	private String s1;
 	private int num4;
 	private String s2;
+	
+	private double d1;
 	/**
 	 * @return the num1
 	 */
