@@ -4,6 +4,7 @@ public class Test1 {
 
 	private int num1;
 	private int num2;
+	private int num3;
 	/**
 	 * @return the num1
 	 */
