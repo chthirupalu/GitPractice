@@ -5,6 +5,7 @@ public class Test1 {
 	private int num1;
 	private int num2;
 	private int num3;
+	private String s1;
 	/**
 	 * @return the num1
 	 */
