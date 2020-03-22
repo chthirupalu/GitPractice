@@ -10,6 +10,7 @@ public class Test1 {
 	private String s2;
 	
 	private double d1;
+	private double d2;
 	/**
 	 * @return the num1
 	 */
