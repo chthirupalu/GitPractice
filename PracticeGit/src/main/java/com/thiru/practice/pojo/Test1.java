@@ -11,6 +11,7 @@ public class Test1 {
 	
 	private double d1;
 	private double d2;
+	private float f1;
 	/**
 	 * @return the num1
 	 */
