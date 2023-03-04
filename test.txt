@@ -1,1 +1,13 @@
 sample file
+
+
+[safe]
+	directory = C:/xampp/htdocs
+[user]
+	email = supriya.yashashri@gmail.com
+	name = supriya-yashashri
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
